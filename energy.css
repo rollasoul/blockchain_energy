@@ -9,7 +9,7 @@ h1 {
 }
 
 p {
-  color: grey;
+  color: red;
   font-family: 'Cutive Mono', monospace;
   font-size:3.0em;
   text-align: center;
@@ -23,18 +23,18 @@ body {
 
 /* unvisited link */
 a:link {
-    color: grey;
+    color: red;
     text-decoration: none;
 }
 
 /* visited link */
 a:visited {
-    color: grey;
+    color: red;
     text-decoration: none;
 }
 
 /* mouse over link */
 a:hover {
-    color: black;
+    color: grey;
     text-decoration: none;
 }
